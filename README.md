@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @john2140581
 - 👀 I’m interested in West Brom
 - 📫 How to reach me (970) 214-0581
+- or email johnn@interserv.com
 
 <!---
 john2140581/john2140581 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
